@@ -6,7 +6,7 @@ import { BsArrowRight } from "react-icons/bs";
 
 export default function FitnessChallenge() {
   return (
-    <div className="container mx-auto flex justify-center stats p-5 my-5 bg-gradient-t">
+    <div className="container mx-auto flex justify-center sm: stats p-5 my-5 bg-gradient-t">
       <div className="stat flex gap-2">
         <div className="text-secondary">
           <Image src={fitness1} alt="fitness" />
@@ -15,10 +15,7 @@ export default function FitnessChallenge() {
           Get that 11 line <br /> in 30 days
           <div className="stat-desc text-whiteText text-sm my-2">
             Learn more
-            <button className=" text-whiteText rounded-md py-2 px-2">
-              Get Started
-              <BsArrowRight className="inline-block text-whiteText ml-4" />
-            </button>
+            <BsArrowRight className="inline-block text-whiteText ml-4" />
           </div>
         </div>
       </div>
@@ -31,10 +28,7 @@ export default function FitnessChallenge() {
           14 Days <br /> sherd challenge
           <div className="stat-desc text-whiteText text-sm my-2">
             Learn more
-            <button className="text-whiteText rounded-md py-2 px-2">
-              Get Started
-              <BsArrowRight className="inline-block text-whiteText ml-4" />
-            </button>
+            <BsArrowRight className="inline-block text-whiteText ml-4" />
           </div>
         </div>
       </div>
@@ -48,10 +42,7 @@ export default function FitnessChallenge() {
           <br /> in 30 days
           <div className="stat-desc text-whiteText text-sm my-2">
             Learn more
-            <button className=" text-whiteText rounded-md py-2 px-2">
-              Get Started
-              <BsArrowRight className="inline-block text-whiteText ml-4" />
-            </button>
+            <BsArrowRight className="inline-block text-whiteText ml-4" />
           </div>
         </div>
       </div>
