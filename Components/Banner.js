@@ -1,8 +1,6 @@
 import banner from "../images/Group 4227.png";
 import brand from "../images/Group 3888.png";
-// import brand2 from "../images/Mask Group (1).png";
-// import brand3 from "../images/Mask Group (2).png";
-// import brand4 from "../images/Mask Group (3).png";
+
 import { IoIosArrowDropright } from "react-icons/io";
 import { BsPlayCircleFill } from "react-icons/bs";
 import Image from "next/image";
