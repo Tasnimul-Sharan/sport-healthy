@@ -6,7 +6,7 @@ import { BsArrowRight } from "react-icons/bs";
 
 export default function FitnessChallenge() {
   return (
-    <div className="container mx-auto flex justify-center sm: stats p-5 my-5 bg-gradient-t">
+    <div className="container mx-auto flex justify-center stats p-5 my-5 bg-gradient-t">
       <div className="stat flex gap-2">
         <div className="text-secondary">
           <Image src={fitness1} alt="fitness" />

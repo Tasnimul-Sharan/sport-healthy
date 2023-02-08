@@ -41,47 +41,5 @@ export default function Banner() {
         </div>
       </div>
     </div>
-
-    // <div className="mt-3 flex container mx-auto">
-    //   <div>
-    // <h2 className="mt-16 text-4xl text-white">
-    //   Healthy in side <br /> <span className="text-sky"> fresh </span> out
-    //   side
-    // </h2>
-    // <p>
-    //   Exercise is a very important need for our body. Health and <br />{" "}
-    //   fitness will be obtained if you can do regular exercise and <br /> run
-    //   a healthy routine.
-    // </p>
-    //     {/* <div className="mx-5"> */}
-    //     {/* <button class="bg-blue hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
-    //       Button
-    //       <IoIosArrowDropright />
-    //     </button> */}
-    //     <div className="flex">
-    //       <button class="bg-blue rounded-lg text-white text-start px-6">
-    //         Button
-    //         <IoIosArrowDropright className="text-neutral-50 mx-5" />
-    //       </button>
-    //     </div>
-    //     {/* </div> */}
-    //   </div>
-    //   <div>
-    // <Image className="w-5/6 h-full" src={banner} alt="hhh" />
-    //   </div>
-    // </div>
   );
 }
-
-// const Banner = () => {
-//   return (
-//     <div className="mt-3 flex">
-//       <h2 className=" text-sm mt-16 shadow-lg md:text-6xl text-white  font-semibold">
-//         Experience Life Through Photos
-//       </h2>
-//       <img className="mx-auto -mt-16" src={banner} alt="hhh" />
-//     </div>
-//   );
-// };
-
-// export default Banner;
